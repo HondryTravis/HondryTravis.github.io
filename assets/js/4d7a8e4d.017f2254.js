@@ -1,0 +1,1 @@
+(self.webpackChunkhondrytravis_blog=self.webpackChunkhondrytravis_blog||[]).push([[8324],{9594:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"start","name":"start","count":1,"permalink":"/blog/tags/start"}')}}]);

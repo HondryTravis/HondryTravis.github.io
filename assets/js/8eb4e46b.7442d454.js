@@ -1,0 +1,1 @@
+(self.webpackChunkhondrytravis_blog=self.webpackChunkhondrytravis_blog||[]).push([[6018],{1421:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/blog/page/2","page":2,"postsPerPage":1,"totalPages":2,"totalCount":2,"previousPage":"/blog","nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkhondrytravis_blog=self.webpackChunkhondrytravis_blog||[]).push([[9052],{2943:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"\u9759\u5fc3","name":"\u9759\u5fc3","count":1,"permalink":"/blog/tags/\u9759\u5fc3"}')}}]);
