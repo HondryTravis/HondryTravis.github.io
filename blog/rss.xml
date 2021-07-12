@@ -4,22 +4,22 @@
         <title>TRAVIS Blog</title>
         <link>https://hondrytravis.github.io/blog</link>
         <description>TRAVIS Blog</description>
-        <lastBuildDate>Fri, 02 Jul 2021 16:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jul 2021 01:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[减压]]></title>
-            <link>https://hondrytravis.github.io/blog/start</link>
-            <guid>减压</guid>
-            <pubDate>Fri, 02 Jul 2021 16:47:39 GMT</pubDate>
-            <description><![CDATA[看远山如黛，望余生似海]]></description>
-        </item>
         <item>
             <title><![CDATA[静心]]></title>
             <link>https://hondrytravis.github.io/blog/20210310</link>
             <guid>静心</guid>
-            <pubDate>Fri, 02 Jul 2021 16:47:39 GMT</pubDate>
+            <pubDate>Mon, 12 Jul 2021 01:43:27 GMT</pubDate>
             <description><![CDATA[大梦谁先觉？平生我自知。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[减压]]></title>
+            <link>https://hondrytravis.github.io/blog/start</link>
+            <guid>减压</guid>
+            <pubDate>Mon, 12 Jul 2021 01:43:27 GMT</pubDate>
+            <description><![CDATA[看远山如黛，望余生似海]]></description>
         </item>
     </channel>
 </rss>

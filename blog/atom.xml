@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hondrytravis.github.io/blog</id>
     <title>TRAVIS Blog</title>
-    <updated>2021-07-02T16:47:39.596Z</updated>
+    <updated>2021-07-12T01:43:27.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hondrytravis.github.io/blog"/>
     <subtitle>TRAVIS Blog</subtitle>
     <icon>https://hondrytravis.github.io/images/default/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[减压]]></title>
-        <id>减压</id>
-        <link href="https://hondrytravis.github.io/blog/start"/>
-        <updated>2021-07-02T16:47:39.596Z</updated>
-        <summary type="html"><![CDATA[看远山如黛，望余生似海]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[静心]]></title>
         <id>静心</id>
         <link href="https://hondrytravis.github.io/blog/20210310"/>
-        <updated>2021-07-02T16:47:39.596Z</updated>
+        <updated>2021-07-12T01:43:27.167Z</updated>
         <summary type="html"><![CDATA[大梦谁先觉？平生我自知。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[减压]]></title>
+        <id>减压</id>
+        <link href="https://hondrytravis.github.io/blog/start"/>
+        <updated>2021-07-12T01:43:27.167Z</updated>
+        <summary type="html"><![CDATA[看远山如黛，望余生似海]]></summary>
     </entry>
 </feed>
